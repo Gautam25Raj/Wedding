@@ -442,8 +442,8 @@ header{
 @media (max-width:400px){
     header{
         height: 80vh;
-        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0 ,0.1)), url(/img/long-photo-2.JPG);
-        background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url(/img/long-photo-2.JPG);
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0 ,0.1)), url(/long-photo2.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), url(/long-photo2.JPG);
     }
     .heading1,
     .heading3{
